@@ -3,3 +3,4 @@ elasticsearch:7.17.3
 rabbitmq:3.9.11-management
 mongo:4
 minio
+nacos/nacos-server:v2.2.3

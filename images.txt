@@ -1,1 +1,2 @@
 nacos/nacos-server:v2.2.3
+openjdk : 17-jdk-bullseye

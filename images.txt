@@ -1,1 +1,1 @@
-openjdk:17.0.2-bullseye
+metabase/metabase:v0.60.x

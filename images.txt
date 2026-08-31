@@ -1,1 +1,1 @@
-node:20-slim
+rust:1.85-bookworm

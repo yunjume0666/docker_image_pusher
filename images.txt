@@ -1,1 +1,1 @@
-debian:bookworm-slim  
+rust:1.97-bookworm

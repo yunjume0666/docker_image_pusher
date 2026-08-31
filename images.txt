@@ -1,1 +1,1 @@
-rust:1.85-bookworm
+debian:bookworm-slim  
